@@ -15,8 +15,7 @@ You may also see any lint errors in the console.
 ![](demo.gif)
 
 ### Application Demo -
-https://tic-tac-toe-02.netlify.app/
-
+https://tic-tac-toe-reacthooks.vercel.app/
 
 ### Development steps-
 1. Create React App using npx create-react-app
